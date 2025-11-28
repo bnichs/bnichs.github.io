@@ -10,7 +10,7 @@
             "path": "/public/blog_out/posts/a-custom-blog.html",
             "fetch_path": "/blog_out/posts/a-custom-blog.html",
             "preview": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Volutpat maecenas volutpat blandit aliquam etiam erat. Duis at tellus at urna condimentum mattis. Dignissim enim sit amet venenatis urna cursus eget nunc scelerisque. Pretium aenean pharetra magna ac. Nibh cras pulvinar mattis nunc sed. Euismod quis viverra nibh cras. Vitae purus faucibus ornare suspendisse sed nisi lacus sed. A iaculis at erat pellentesque adipiscing commodo elit. Cursus eget nunc scelerisque viverra mauris in aliquam sem fringilla. Vel risus commodo viverra maecenas accumsan lacus vel facilisis. In ante metus dictum at tempor commodo. Dolor morbi non arcu risus quis varius quam quisque id. Blandit cursus risus at ultrices mi tempus imperdiet nulla. Aliquam etiam erat velit scelerisque in dictum. Enim lobortis scelerisque fermentum dui faucibus in. Nibh cras pulvinar mattis nunc sed blandit libero volutpat sed. Enim ut tellus elementum sagittis vitae. Curabitur vitae nunc sed velit dignissim sodales ut eu.</p><p>Nunc faucibus a pellentesque sit amet. Tristique risus nec feugiat in fermentum posuere. Aliquet porttitor lacus luctus accumsan tortor posuere ac ut consequat. Bibendum neque egestas congue quisque egestas diam. In fermentum et sollicitudin ac orci phasellus egestas. Nunc scelerisque viverra mauris in aliquam sem fringilla ut morbi. Sit amet commodo nulla facilisi. Non tellus orci ac auctor augue mauris augue. Varius vel pharetra vel turpis nunc eget lorem dolor. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Justo donec enim diam vulputate ut.</p><p>agian</p><p>I really tryes</p><p>fuck js</p><p>hello</p>",
-            "updated_date": "2022-09-15T19:31:24.854Z"
+            "updated_date": "2025-11-28T21:45:48.758Z"
         },
         "how-i-built-this": {
             "ref": "how-i-built-this",
@@ -23,7 +23,7 @@
             "path": "/public/blog_out/posts/how-i-built-this.html",
             "fetch_path": "/blog_out/posts/how-i-built-this.html",
             "preview": "",
-            "updated_date": "2022-09-15T19:31:24.854Z"
+            "updated_date": "2025-11-28T21:45:48.759Z"
         },
         "test-blog": {
             "ref": "test-blog",
@@ -35,7 +35,7 @@
             "path": "/public/blog_out/posts/test-blog.html",
             "fetch_path": "/blog_out/posts/test-blog.html",
             "preview": "<p>magic: a712e546-1014-41e9-9917-0d32d34d3f4a</p>",
-            "updated_date": "2022-09-15T19:31:24.854Z"
+            "updated_date": "2025-11-28T21:45:48.759Z"
         }
     }
 }

@@ -1,0 +1,1 @@
+import{d as t,o as a,c as o,w as e,a as s,_ as n,M as c,b as _}from"./index.e8ce0c8c.js";const r=_(" About Me "),l=t({__name:"AboutView",setup(i){return(u,p)=>(a(),o(c,null,{title:e(()=>[r]),content:e(()=>[s(n,{extra:!0})]),_:1}))}});export{l as default};

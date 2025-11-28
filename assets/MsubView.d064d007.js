@@ -1,0 +1,1 @@
+import{d as a,o,c as s,w as t,M as n,b as r,e}from"./index.e8ce0c8c.js";const c=r(" Game Links "),l=e("ul",null,[e("li",null,[e("a",{href:"https://vcloud.hudl.com/file/broadcast/3159759.m3u8",target:"_blank",rel:"noreferrer"},"Click here")])],-1),h=a({__name:"MsubView",setup(_){return(i,u)=>(o(),s(n,null,{title:t(()=>[c]),content:t(()=>[l]),_:1}))}});export{h as default};
